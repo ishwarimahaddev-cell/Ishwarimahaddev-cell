@@ -1,4 +1,4 @@
-# Your Name Here
+# Your Name Here Iswari Mahaddev
 
 ### Your tagline here — e.g. "Aspiring developer | Polytechnic student | Python learner"
 
@@ -7,6 +7,11 @@
 ## About Me
 
 Write 3–5 sentences about yourself here. Include your course, your college, what you enjoy building, and one fun fact.
+I am a Polytechnic student learning Computer Engineering.
+I enjoy programming and building small projects using Python.
+I am also learning C, C++, Java, Git, and GitHub.
+My goal is to work in a top company in the future.
+I enjoy solving coding problems and learning new technologies.
 
 ---
 
@@ -17,7 +22,9 @@ Write 3–5 sentences about yourself here. Include your course, your college, wh
 | Python       | Beginner     |
 | Git & GitHub | Beginner     |
 | Markdown     | Beginner     |
-| Add more...  | ...          |
+| c            | Beginner     |
+|c++           | Beginner     |
+|java          | Beginner     |
 
 ---
 
@@ -33,7 +40,7 @@ Write 3–5 sentences about yourself here. Include your course, your college, wh
 
 - What do you want to learn next? (be specific — e.g. "learn Python file I/O")
 - What project do you want to build?
-- Any other goal...
+- I want to work for a top company.
 
 ---
 
